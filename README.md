@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/bobohan777/bobohan777/blob/main/profile-photo.png" alt="Bo Bo Han" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" />
+<img src="https://github.com/bobohan777/bobohan777/blob/main/profile-photo.png" alt="Bo Bo Han" width="200" height="300" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" />
 
 # 🚀 Hey there! I'm Bo Bo Han
 
