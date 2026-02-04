@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/bobohan777/bobohan777/blob/main/profile-photo.png" alt="Bo Bo Han" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" />
+
 # 🚀 Hey there! I'm Bo Bo Han
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=SRE+%7C+Cloud+Wizard+%E2%9C%A8;10%2B+Years+Keeping+700%2B+Servers+Happy+%F0%9F%98%84;AWS+%7C+Kubernetes+%7C+99.99%25+Uptime+Master;AI+Agent+Builder+%7C+Automation+Ninja+%F0%9F%A5%B7;Bangkok+%E2%86%92+Global+%7C+Remote+Ready+%F0%9F%8C)](https://git.io/typing-svg)
